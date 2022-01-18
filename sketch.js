@@ -283,7 +283,7 @@ laserGroup.bounceOff(invisibleground)
    
 
   camera.position.x=spider.x+400
-  
+   camera.position.y=490
 
 
 
